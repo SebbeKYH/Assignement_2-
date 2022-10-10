@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665132422 source:c:\users\rasmu\desktop\iot\embedded\project1\assignement_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/stat.h>
+
